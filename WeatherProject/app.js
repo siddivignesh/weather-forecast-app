@@ -11,7 +11,7 @@ const weatherImages = {
 };
 
 // API key for OpenWeatherMap API
-const apiKey = '87b8dceb70a8ced347d2217fb86167c4';
+const apiKey = 'your-api-key';
 
 // DOM Elements
 const cityInput = document.getElementById('cityInput');
